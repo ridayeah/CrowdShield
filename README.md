@@ -6,28 +6,28 @@ CrowdShield is a festival safety platform designed to protect attendees and supp
 
 Attendees
 
-Crowd Map
+- Crowd Map
 - Chatbot
 - Emergency Alert
 - Notifs for crowd spikes/emergencies
 - Profile for medical emergencies
-- In-Field Team:
 
-Crowd Map
-Chatbot
-Alerts monitoring + signing up
-Notifs for crowd spikes/emergencies
+In-Field Team:
+- Crowd Map
+- Chatbot
+- Alerts monitoring + signing up
+- Notifs for crowd spikes/emergencies
+
 Off-Field (Admin) Team:
-
-Create event + generate QR code/invite link
-Real-time people tracking (computer vision)
-Emergency hand waving + flashlight signal recognition
-Dashboard with all attendees + flags medically high risk
-Alerts monitoring + assigning
-Notifs for crowd spikes/emergencies
+- Create event + generate QR code/invite link
+- Real-time people tracking (computer vision)
+- Emergency hand waving + flashlight signal recognition
+- Dashboard with all attendees + flags medically high risk
+- Alerts monitoring + assigning
+- Notifs for crowd spikes/emergencies
 
 Future Implementations:
 
-Collect attendee location and information to allow friends to find eachother easily
-Utilize faster technologies to account for wide usage
-Improve CV Model to be trained on other indicators of help such as waving hands
+- Collect attendee location and information to allow friends to find eachother easily
+- Utilize faster technologies to account for wide usage
+- Improve CV Model to be trained on other indicators of help such as waving hands
