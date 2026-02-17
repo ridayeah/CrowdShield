@@ -7,11 +7,11 @@ CrowdShield is a festival safety platform designed to protect attendees and supp
 Attendees
 
 Crowd Map
-Chatbot
-Emergency Alert
-Notifs for crowd spikes/emergencies
-Profile for medical emergencies
-In-Field Team:
+- Chatbot
+- Emergency Alert
+- Notifs for crowd spikes/emergencies
+- Profile for medical emergencies
+-I n-Field Team:
 
 Crowd Map
 Chatbot
