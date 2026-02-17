@@ -11,7 +11,7 @@ Crowd Map
 - Emergency Alert
 - Notifs for crowd spikes/emergencies
 - Profile for medical emergencies
--I n-Field Team:
+- In-Field Team:
 
 Crowd Map
 Chatbot
