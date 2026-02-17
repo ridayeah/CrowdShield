@@ -26,7 +26,7 @@ Off-Field (Admin) Team:
 - Alerts monitoring + assigning
 - Notifs for crowd spikes/emergencies
 
-Future Implementations:
+# Future Implementations:
 
 - Collect attendee location and information to allow friends to find eachother easily
 - Utilize faster technologies to account for wide usage
